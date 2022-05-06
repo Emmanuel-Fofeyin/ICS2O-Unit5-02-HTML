@@ -2,8 +2,8 @@
 
 Template to make an MDL, PWA website, on GitHub pages.
 
-[![Mr Coxall's Super Linter](https://github.com/mr-coxall/github-page-pwa/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/mr-coxall/github-page-pwa/actions)
+[![Mr Coxall's Super Linter](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit5-02-HTML/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit5-02-HTML/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/mr-coxall/github-page-pwa)](https://repl.it/github/mr-coxall/github-page-pwa)
+[![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Fofeyin/ICS2O-Unit5-02-HTML)](https://repl.it/github/Emmanuel-Fofeyin/ICS2O-Unit5-02-HTML)
 
-This site can be found at: [https://mr-coxall.github.io/github-page-pwa/](https://mr-coxall.github.io/github-page-pwa/)
+This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit5-02-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit5-02-HTML/)
