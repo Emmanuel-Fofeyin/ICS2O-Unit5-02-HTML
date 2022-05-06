@@ -1,21 +1,31 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2022 Emmanuel-Fofeyin All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Emmanuel-Fofeyin
+// Created on: Apr 2022
 // This file contains the JS functions for index.html
 
 /**
- * Check servie worker.
+ * Check service worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/github-page-pwa/sw.js", {
-    scope: "/github-page-pwa/",
+  navigator.serviceWorker.register("/ICS20-Unit5-02-JS/sw.js", {
+    scope: "/ICS20-Unit5-02-JS/",
   })
 }
 
+;("use strict")
+
 /**
- * This function displays an alert.
+ * This function calculates random number and checks if you guessed it correctly
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+function check() {
+  // input
+  var number = parseInt(document.getElementById("slider").value)
+
+  // process and output
+  if (number >= 0) {
+    document.getElementById("boolean").innerHTML = "This number is positive"
+  } else {
+    document.getElementById("boolean").innerHTML = "This number is negative"
+  }
 }
