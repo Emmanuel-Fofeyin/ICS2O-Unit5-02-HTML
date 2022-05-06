@@ -16,9 +16,6 @@
                 <mxCell id="9" value="" style="line;strokeWidth=2;html=1;fontSize=22;" vertex="1" parent="1">
                     <mxGeometry x="70" y="400" width="290" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="&lt;font color=&quot;#b3b3b3&quot;&gt;Input Integer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
-                    <mxGeometry x="70" y="370" width="140" height="30" as="geometry"/>
-                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
